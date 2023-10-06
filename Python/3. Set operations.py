@@ -11,7 +11,7 @@
 # Creating a Set with
 # a mixed type of values
 # (Having numbers and strings)
-Set = set([1, 2, 'Geeks', 4, 'For', 6, 'Geeks'])
+Set = set([1, 2, 'Geeks', 4, 'For', 6,6, 'Geeks',2])
 print("\nSet with the use of Mixed Values")
 print(Set)
 
